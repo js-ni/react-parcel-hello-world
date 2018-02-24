@@ -7,7 +7,11 @@ React Hello World with ParcelJS
 # Install packages
 
     $ yarn
- 
+
+# Install parcel
+
+    $ yarn global add parcel-bundler
+
 # Run
- 
+
     $ parcel index.html
